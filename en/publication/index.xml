@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://victoriashangina.github.io/en/publication/</link>
+      <atom:link href="https://victoriashangina.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victoriashangina.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://victoriashangina.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://victoriashangina.github.io/en/publication/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://victoriashangina.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-зачем-нужен-git&#34;&gt;Управление версиями: зачем нужен Git?&lt;/h2&gt;
+&lt;p&gt;Git – это система контроля версий, без которой сложно представить современную разработку. Если ты кодишь, тебе &lt;strong&gt;точно&lt;/strong&gt; стоит с ним разобраться.&lt;/p&gt;
+&lt;h3 id=&#34;-зачем-нужен-git&#34;&gt;🔹 Зачем нужен Git?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;История изменений&lt;/strong&gt; – можно вернуться к любой версии кода.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Работа в команде&lt;/strong&gt; – легко объединять код нескольких разработчиков.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Безопасность&lt;/strong&gt; – изменения хранятся локально и на сервере.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-основные-команды-git&#34;&gt;🔹 Основные команды Git&lt;/h3&gt;
+&lt;p&gt;Вот несколько базовых команд, с которых стоит начать:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init          &lt;span class=&#34;c1&#34;&gt;# Создать новый репозиторий  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone &amp;lt;URL&amp;gt;   &lt;span class=&#34;c1&#34;&gt;# Склонировать репозиторий  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .         &lt;span class=&#34;c1&#34;&gt;# Добавить файлы в индекс  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Комментарий&amp;#34;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# Зафиксировать изменения  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin main  &lt;span class=&#34;c1&#34;&gt;# Отправить изменения в удалённый репозиторий  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull origin main  &lt;span class=&#34;c1&#34;&gt;# Получить актуальные изменения  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch feature  &lt;span class=&#34;c1&#34;&gt;# Создать новую ветку  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout feature  &lt;span class=&#34;c1&#34;&gt;# Переключиться на ветку  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge feature  &lt;span class=&#34;c1&#34;&gt;# Слить ветку с основной  &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-полезные-советы&#34;&gt;🔹 Полезные советы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Пиши понятные коммиты&lt;/strong&gt; – “fixed bug” плохо, “Исправил ошибку с загрузкой файлов” – хорошо.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Используй ветки&lt;/strong&gt; – каждая фича или фикс должны быть в отдельной ветке.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Всегда делай pull перед push&lt;/strong&gt; – это поможет избежать конфликтов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git – мощный инструмент, но освоить его можно довольно быстро. Главное – практика! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
