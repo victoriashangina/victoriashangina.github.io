@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/tags/academic/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/post/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/tags/hugo-blox/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +73,7 @@
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/tags/markdown/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -87,7 +87,7 @@
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/tags/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -98,6 +98,28 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://victoriashangina.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://victoriashangina.github.io/publication/02/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://victoriashangina.github.io/post/02/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://victoriashangina.github.io/publication/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://victoriashangina.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://victoriashangina.github.io/publication/"
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/post/01/</loc>
@@ -112,20 +134,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://victoriashangina.github.io/post/01/"
-                />
-  </url><url>
-    <loc>https://victoriashangina.github.io/publication/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://victoriashangina.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://victoriashangina.github.io/publication/"
                 />
   </url><url>
     <loc>https://victoriashangina.github.io/publication/01/</loc>
