@@ -5,12 +5,29 @@
     <link>https://victoriashangina.github.io/tags/markdown/</link>
       <atom:link href="https://victoriashangina.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victoriashangina.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://victoriashangina.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://victoriashangina.github.io/post/03/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://victoriashangina.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-что-было-на-неделе-у-компьютерщиков&#34;&gt;🖥️ Что было на неделе у &amp;ldquo;компьютерщиков&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;Неделя выдалась плотной, но, в целом, продуктивной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔧 На системном программировании — разбирались с устройством памяти и писали простые утилиты на C. Без SEGFAULT’ов уже прогресс!&lt;/li&gt;
+&lt;li&gt;📈 Алгоритмы — изучали жадные методы. Задачи на графы начали хоть немного &amp;ldquo;садиться&amp;rdquo; в голове.&lt;/li&gt;
+&lt;li&gt;🧠 На дискретке — булева алгебра снова напомнила, что логика — это не всегда логично 😅&lt;/li&gt;
+&lt;li&gt;☕ На перерывах обсуждали сборки Linux и кто на чём сейчас пишет pet-проекты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно приходит ощущение, что за всем этим хаосом скрыта система. Главное — не сбавлять темп.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
