@@ -5,7 +5,7 @@
     <link>https://victoriashangina.github.io/tags/hugo/</link>
       <atom:link href="https://victoriashangina.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victoriashangina.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,85 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://victoriashangina.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://victoriashangina.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://victoriashangina.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://victoriashangina.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://victoriashangina.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://victoriashangina.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Cайт научного работника на Hugo Academic</title>
+      <link>https://victoriashangina.github.io/project/hugo/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://victoriashangina.github.io/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;сайт-научного-работника-на-hugo-academic&#34;&gt;Сайт научного работника на Hugo Academic&lt;/h1&gt;
+&lt;p&gt;Создать современный и функциональный личный сайт для научного сотрудника — задача, которую легко решить с помощью темы &lt;strong&gt;Hugo Academic&lt;/strong&gt;. Эта популярная платформа призвана показать профессиональные достижения, публикации, преподавательский опыт и другую важную информацию. Ниже рассмотрим преимущества и особенности такого сайта.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;преимущества&#34;&gt;Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Организованная структура&lt;/strong&gt;: Hugo Academic предлагает готовую схему для разделения статей, публикаций, курсов, проектов и прочего контента.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Простое обновление&lt;/strong&gt;: Все материалы хранятся в файлах, которые легко редактировать. Изменения применяются мгновенно, не требуя сложной CMS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкая кастомизация&lt;/strong&gt;: Вы можете настроить цвета, шрифты и компоновку страницы, сохранив при этом общую логику построения.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматическое построение&lt;/strong&gt;: Сам движок Hugo оптимизирован для быстрой генерации статических страниц, что облегчает хостинг и повышает скорость загрузки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Удобная интеграция&lt;/strong&gt;: Есть много встроенных функций для отображения профиля из GitHub, Google Scholar, ResearchGate и других платформ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;основные-возможности&#34;&gt;Основные возможности&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Публикации и статьи&lt;/strong&gt;&lt;br&gt;
+Отдельный раздел для научных работ позволяет компактно оформить библиографию, выделить нужные проекты и добавить к каждой публикации ссылку на исходный материал.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Презентация достижений&lt;/strong&gt;&lt;br&gt;
+Встроенные блоки помогают продемонстрировать награды, гранты, сертификации или выступления на конференциях. Это упрощает создание привлекательного портфолио.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Секция “О себе”&lt;/strong&gt;&lt;br&gt;
+Наиболее важная информация об авторе размещается в верхней части страницы, в том числе фото, контактные данные и краткое описание деятельности.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Поддержка многоязычности&lt;/strong&gt;&lt;br&gt;
+Если у вас есть читатели из разных стран, можно легко настроить несколько языковых версий сайта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Настраиваемые виджеты&lt;/strong&gt;&lt;br&gt;
+Для встроенных галерей, публикаций, списка курсов и блога предусмотрены виджеты с расширенными настройками. При желании их расположение меняется в файлах конфигурации.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Блог&lt;/strong&gt;&lt;br&gt;
+Hugo Academic позволяет вести блог на одной платформе вместе со своими научными публикациями. Это удобно для деловых заметок, эссе и последних новостей из вашей области исследований.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;основные-шаги-по-созданию-сайта&#34;&gt;Основные шаги по созданию сайта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Выбор платформы для хостинга&lt;/strong&gt;&lt;br&gt;
+Вы можете развернуть сайт локально и затем загрузить его на любой статический хостинг, например GitHub Pages или Netlify.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Настройка темы Hugo Academic&lt;/strong&gt;&lt;br&gt;
+После установки и настройки темы обычно редактируют файлы конфигурации для указания имени, описания и основных разделов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Добавление контента&lt;/strong&gt;&lt;br&gt;
+Личная информация, публикации, блоговые записи и изображения добавляются в соответствующие папки в виде Markdown-файлов. Структура сайта формируется автоматически на основе таких файлов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Управление файлами&lt;/strong&gt;&lt;br&gt;
+Важно поддерживать в актуальном состоянии список публикаций и других материалов. Регулярное обновление сохраняет интерес к вашему сайту среди потенциальных коллег и партнеров.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Внешний вид и персонализация&lt;/strong&gt;&lt;br&gt;
+Настройки цвета, шрифтов, логотипа и фоновых изображений позволяют сделать сайт уникальным и соответствующим вашему научному стилю.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;советы-по-эффективному-использованию&#34;&gt;Советы по эффективному использованию&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Регулярное обновление&lt;/strong&gt;: Добавляйте новые публикации и проекты сразу после их выхода. Так ваш сайт всегда будет отражать актуальный статус исследований.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Подключение сторонних сервисов&lt;/strong&gt;: Встроенная интеграция с Google Scholar и ORCID помогает автоматизировать отображение списка ваших статей и результатов цитирования.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Возможности соцсетей&lt;/strong&gt;: Не забудьте подключить социальные сети и контактные формы, чтобы потенциальные соавторы и студенты могли быстро связаться с вами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поисковая оптимизация&lt;/strong&gt;: Продумайте ключевые слова и метаописания. Это повысит видимость сайта среди исследователей в вашей области.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Сайт на &lt;strong&gt;Hugo Academic&lt;/strong&gt; — это современный способ поддерживать собственное научное портфолио, где удобно хранить публикации, рассказывать о своей деятельности и общаться с коллегами. Благодаря простоте настройки и гибкости структуры вы сможете адаптировать сайт под индивидуальные потребности. В результате получите стильную и информативную площадку, которая отразит ваш профессиональный рост и научные достижения.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
